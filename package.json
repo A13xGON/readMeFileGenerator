@@ -1,0 +1,23 @@
+{
+  "name": "readmefile-generator", 
+  "version" : "1.0.0",
+  "description": "A command line applcation that creates a proffessional readMeFile based on user input.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alex Gonzalez", 
+  "license": "MIT",
+    "dependencies": {
+      "inquirer": "8.2.4"
+    }
+  }
+
+
+
+
+
+
+
+
+
